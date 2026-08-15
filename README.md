@@ -24,7 +24,7 @@ JavaScript / TypeScript · Node.js · Python · Lua · C#
 
 ## 📫 Get in touch
 
-Open an issue on any of my repos, or find me on GitHub
-[@PulseHabour](https://github.com/PulseHabour).
+Join the [Discord](https://discord.gg/H3aQQ7VCaY), open an issue on any of my repos,
+or find me on GitHub [@PulseHabour](https://github.com/PulseHabour).
 
 <sub>Fan tooling only — not affiliated with Rockstar Games, Take-Two Interactive, or the Cfx.re project.</sub>
